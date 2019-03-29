@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 大事記
-#+DATE: 2019-03-29 20:49:28.648820
+#+DATE: 2019-03-29 20:49:28.972204
 #+PROPERTY: ID KR2b0023
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 10
 <pb:KR2b0023_WYG_010-1a>¶
 　　欽定四庫全書¶
@@ -44,7 +44,7 @@
 ¶
 　　六月令郡國無來獻(夲紀)¶
 ¶
-　　令民賦四十丁男三十而一事(以賈&KR0162;之傳修)¶
+　　令民賦四十丁男三十而一事(以賈捐之傳修)¶
 ¶
 　　修代來功封衛將軍宋昌為壯武侯(夲紀)¶
 ¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 大事記
-#+DATE: 2019-03-29 20:49:28.641592
+#+DATE: 2019-03-29 20:49:28.964829
 #+PROPERTY: ID KR2b0023
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 9
 <pb:KR2b0023_WYG_009-1a>¶
 　　欽定四庫全書¶
@@ -166,7 +166,7 @@
 ¶
 　　復吏卒至平城者終身(以夲紀修)¶
 ¶
-　　令賈人毋得衣錦繡綺縠絺紵𦋺操兵乗騎(以夲紀修)¶
+　　令賈人毋得衣錦繡綺縠絺紵罽操兵乗騎(以夲紀修)¶
 ¶
 　　秋八月吏有罪未發覺者赦之(夲紀)¶
 ¶

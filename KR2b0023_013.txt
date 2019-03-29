@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 大事記
-#+DATE: 2019-03-29 20:49:28.666554
+#+DATE: 2019-03-29 20:49:28.990014
 #+PROPERTY: ID KR2b0023
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 13
 <pb:KR2b0023_WYG_013-1a>¶
 　　欽定四庫全書¶
@@ -107,7 +107,7 @@
 ¶
 　　詩序關雎后妃之德也葛覃后妃之本也巻耳后妃之¶
 志也樛木后妃逮下也螽斯后妃子孫衆多也桃夭后¶
-妃之所致也兎𦊨后妃之化也芣苢后妃之美也漢廣¶
+妃之所致也兎罝后妃之化也芣苢后妃之美也漢廣¶
 德廣所及也汝墳道化行也麟之趾關雎之應也　鵲¶
 <pb:KR2b0023_WYG_013-6b>¶
 巢夫人之德也采蘩夫人不失職也草蟲大夫妻能以¶

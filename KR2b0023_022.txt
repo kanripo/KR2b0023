@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 大事記
-#+DATE: 2019-03-29 20:49:28.754962
+#+DATE: 2019-03-29 20:49:29.082289
 #+PROPERTY: ID KR2b0023
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 22
 <pb:KR2b0023_WYG_022-1a>¶
 　　欽定四庫全書¶
@@ -374,7 +374,7 @@
 者不達又若虞其敗者夫以秦皇狙詐之智虎狼之¶
 威千乘萬騎之衆揮椎奮擊既無覺者大索天下又¶
 不能得良非獨免併免力士其智畧之妙固已視吕¶
-政如𦊨中兔何敗獲之憂乎是亦淺之乎待良矣¶
+政如罝中兔何敗獲之憂乎是亦淺之乎待良矣¶
 ¶
 　　秦始皇帝三十一年更名臘曰嘉平¶
 ¶

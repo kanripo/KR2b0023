@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 大事記
-#+DATE: 2019-03-29 20:49:28.595237
+#+DATE: 2019-03-29 20:49:28.912093
 #+PROPERTY: ID KR2b0023
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR2b0023_WYG_000-1a>¶
 　　欽定四庫全書　　　　　史部二¶
